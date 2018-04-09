@@ -1,5 +1,5 @@
 # MS_SSIM_pytorch
-ms_ssim loss function implemented in pytorch
+__ms_ssim__ loss function implemented in pytorch
 
 # references    
 
